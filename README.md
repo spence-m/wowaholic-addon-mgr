@@ -1,0 +1,1 @@
+# wowaholic-addon-mgr
